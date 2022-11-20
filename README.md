@@ -20,13 +20,11 @@ Priorities when transcribing a song include:
 
 ## Downloads
 
-[Musescore Source Files](/musescore)
-
-[PDFs of each song](/pdf/individual)
-[PDFs of each expansion](/pdf/expansions)
-[PDF of everything](https://github.com/sigmabeta/xiv-real-book/raw/main/pdf/XIV%20Real%20Book%20Full.pdf)
-
-[Musescore Audio MP3s](/backing-tracks) 
+- [PDFs of each song](/pdf/individual)
+- [PDFs of each expansion](/pdf/expansions)
+- [PDF of everything](https://github.com/sigmabeta/xiv-real-book/raw/main/pdf/XIV%20Real%20Book%20Full.pdf)
+- [Musescore Source Files](/musescore)
+- [Musescore Audio MP3s](/backing-tracks) 
 
 ## Feedback
 
