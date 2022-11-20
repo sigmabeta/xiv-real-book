@@ -1,8 +1,8 @@
 # The Final Fantasy XIV Real Book Project
 
-An attempt to transcribe a selection of lead sheets of songs from the Final Fantasy XIV soundtracks that best represents the game's quality and variety. 
+A selection of lead sheets transcriptions of songs from the Final Fantasy XIV soundtracks that best represents the game's quality and variety. 
 
-The XIV Real Book will contain three tunes from each of the five expansions, for a total of fifteen songs. The scope may eventually expand to include themes from 1.0, or additional tunes from each era.
+The XIV Real Book contains three tunes from each of the five expansions, for a total of fifteen songs. The scope may eventually expand to include themes from 1.0, or additional tunes from each era.
 
 ## Goals 
 Priorities for inclusion in the project include, but are not limited to:
@@ -22,7 +22,11 @@ Priorities when transcribing a song include:
 
 [Musescore Source Files](/musescore)
 
-[PDFs (in C)](/pdf)
+[PDFs of each song](/pdf/individual)
+[PDFs of each expansion](/pdf/expansions)
+[PDF of everything](https://github.com/sigmabeta/xiv-real-book/raw/main/pdf/XIV%20Real%20Book%20Full.pdf)
+
+[Musescore Audio MP3s](/backing-tracks) 
 
 ## Feedback
 
