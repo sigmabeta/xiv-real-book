@@ -4,20 +4,6 @@ A selection of lead sheets transcriptions of songs from the Final Fantasy XIV so
 
 The XIV Real Book contains three tunes from each of the five expansions, for a total of fifteen songs. The scope may eventually expand to include themes from 1.0, or additional tunes from each era.
 
-## Goals 
-Priorities for inclusion in the project include, but are not limited to:
-
-- **Relevance to the canon**: Are other songs based on this one? Does it represent a pivotal moment in the story? 
-- **Playability**: Can someone be expected to perform a reasonable facsimile of the song with just a lead sheet? 
-- **Bopitude**: Does the community tend to enjoy the song? Are there memes of it? Is it frequently covered?
-
-Priorities when transcribing a song include:
-
-- **Accuracy**: When possible, we strive to get as close as possible to the correct notes, rhythms, and chords as presented in the original track.
-- **Readability**: Sometimes "correct" engraving techniques can create confusing loop patterns or extreme information density; we avoid confusion when possible without sacrificing too much accuracy.
-- **Brevity**: Not every single counter melody, grace note, or second voice needs to be included; if an element of the song is not absolutely critical to its reproduction, we omit it.
-- **Intent**: In instances where dense mixing of the original song makes things hard to hear, we attempt to deduce the original intent. Other sources may be consulted in the process of doing so, but we limit these to official covers and rearrangements. In addition, XIV's heavy use of live performers can create questions of interpretation, and we focus on intent in these situations as well.
-
 ## Downloads
 
 - [PDFs of each song](/pdf/individual)
@@ -25,6 +11,20 @@ Priorities when transcribing a song include:
 - [PDF of everything](https://github.com/sigmabeta/xiv-real-book/raw/main/pdf/XIV%20Real%20Book%20Full.pdf)
 - [Musescore Source Files](/musescore)
 - [Musescore Audio MP3s](/backing-tracks) 
+
+## Goals 
+Priorities for inclusion in the project include, but are not limited to:
+
+- **Relevance to the canon**: Are other songs based on this one? Does it represent a pivotal moment in the story? 
+- **Playability**: Can someone be expected to perform a reasonable facsimile of the song with just a lead sheet? 
+- **Bopitude**: Does the community tend to enjoy the song? Are there memes of it? Is it frequently covered?
+s
+Priorities when transcribing a song include:
+
+- **Accuracy**: When possible, we strive to get as close as possible to the correct notes, rhythms, and chords as presented in the original track.
+- **Readability**: Sometimes "correct" engraving techniques can create confusing loop patterns or extreme information density; we avoid confusion when possible without sacrificing too much accuracy.
+- **Brevity**: Not every single counter melody, grace note, or second voice needs to be included; if an element of the song is not absolutely critical to its reproduction, we omit it.
+- **Intent**: In instances where dense mixing of the original song makes things hard to hear, we attempt to deduce the original intent. Other sources may be consulted in the process of doing so, but we limit these to official covers and rearrangements. In addition, XIV's heavy use of live performers can create questions of interpretation, and we focus on intent in these situations as well.
 
 ## Feedback
 
