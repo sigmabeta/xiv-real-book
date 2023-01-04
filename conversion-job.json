@@ -1,0 +1,142 @@
+[
+	{
+		"in": "musescore/Final Fantasy XIV A Realm Reborn - Oblivion.mscz",
+		"out": [
+			[
+				"temp/",
+				"/A Realm Reborn - Oblivion.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV A Realm Reborn - Spiral.mscz",
+		"out": [
+			[
+				"temp/",
+				"/A Realm Reborn - Spiral.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV A Realm Reborn - The Scars of Battle.mscz",
+		"out": [
+			[
+				"temp/",
+				"/A Realm Reborn - The Scars of Battle.pdf"
+			]
+		]
+	},
+
+	{
+	
+		"in": "musescore/Final Fantasy XIV Heavensward - Against the Wind.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Heavensward - Against the Wind.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV Heavensward - Exponential Entropy.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Heavensward - Exponential Entropy.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV Heavensward - Ink Long Dry.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Heavensward - Ink Long Dry.pdf"
+			]
+		]
+	},
+
+	{
+		"in": "musescore/Final Fantasy XIV Stormblood - Sunrise.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Stormblood - Sunrise.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV Stormblood - Sunrise.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Stormblood - Sunrise.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV Stormblood - Sunrise.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Stormblood - Sunrise.pdf"
+			]
+		]
+	},
+
+	{
+		"in": "musescore/Final Fantasy XIV Shadowbringers - Tomorrow and Tomorrow.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Shadowbringers - Tomorrow and Tomorrow.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV Shadowbringers - What Angel Wakes Me.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Shadowbringers - What Angel Wakes Me.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV Shadowbringers - Ultima.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Shadowbringers - Ultima.pdf"
+			]
+		]
+	},
+
+	{
+		"in": "musescore/Final Fantasy XIV Endwalker - Carrots of Happiness.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Endwalker - Carrots of Happiness.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV Endwalker - Close in the Distance.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Endwalker - Close in the Distance.pdf"
+			]
+		]
+	},
+	{
+		"in": "musescore/Final Fantasy XIV Endwalker - Endwalker Footfalls.mscz",
+		"out": [
+			[
+				"temp/",
+				"/Endwalker - Endwalker Footfalls.pdf"
+			]
+		]
+	}
+]
