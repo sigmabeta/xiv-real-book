@@ -5,12 +5,23 @@ A selection of lead sheets transcriptions of songs from the Final Fantasy XIV so
 The XIV Real Book contains three tunes from each of the five expansions, for a total of fifteen songs. The scope may eventually expand to include themes from 1.0, or additional tunes from each era.
 
 ## Downloads
-
-- [PDFs of each song](/pdf/individual)
-- [PDFs of each expansion](/pdf/expansions)
-- [PDF of everything](https://github.com/sigmabeta/xiv-real-book/raw/main/pdf/XIV%20Real%20Book%20Full.pdf)
 - [Musescore Source Files](/musescore)
 - [Musescore Audio MP3s](/backing-tracks) 
+
+### C Instruments
+- [PDFs of each song](/pdf/C/individual)
+- [PDFs of each expansion](/pdf/C/expansions)
+- [PDF of everything](https://github.com/sigmabeta/xiv-real-book/raw/main/pdf/C/XIV%20Real%20Book%20Full%20(C).pdf)
+
+### Bb Instruments (Trumpet, Tenor Sax, etc.)
+- [PDFs of each song](/pdf/Bb/individual)
+- [PDFs of each expansion](/pdf/Bb/expansions)
+- [PDF of everything](https://github.com/sigmabeta/xiv-real-book/raw/main/pdf/Bb/XIV%20Real%20Book%20Full%20(Bb).pdf)
+
+### Eb Instruments (Alto Sax, etc.)
+- [PDFs of each song](/pdf/Eb/individual)
+- [PDFs of each expansion](/pdf/Eb/expansions)
+- [PDF of everything](https://github.com/sigmabeta/xiv-real-book/raw/main/pdf/Eb/XIV%20Real%20Book%20Full%20(Eb).pdf)
 
 ## Goals 
 Priorities for inclusion in the project include, but are not limited to:
