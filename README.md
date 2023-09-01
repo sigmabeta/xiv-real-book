@@ -29,6 +29,8 @@ Priorities for inclusion in the project include, but are not limited to:
 - **Relevance to the canon**: Are other songs based on this one? Does it represent a pivotal moment in the story? 
 - **Playability**: Can someone be expected to perform a reasonable facsimile of the song with just a lead sheet? 
 - **Bopitude**: Does the community tend to enjoy the song? Are there memes of it? Is it frequently covered?
+
+Priorities when transcribing a song include:
 - **Accuracy**: When possible, we strive to get as close as possible to the correct notes, rhythms, and chords as presented in the original track.
 - **Readability**: Sometimes "correct" engraving techniques can create confusing loop patterns or extreme information density; we avoid confusion when possible without sacrificing too much accuracy.
 - **Brevity**: Not every single counter melody, grace note, or second voice needs to be included; if an element of the song is not absolutely critical to its reproduction, we omit it.
